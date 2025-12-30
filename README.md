@@ -11,7 +11,7 @@ The goal of this project is to analyze the relationship between Bitcoin market s
 
 Due to GitHub file size limitations, the raw datasets are not included in this repository.
 
-Please download the datasets from the following links and place them inside a `data/` folder:
+Please download the datasets from the following links :
 
 - Historical Trader Data (Hyperliquid):  
   https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
