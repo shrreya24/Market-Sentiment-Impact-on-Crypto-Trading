@@ -20,6 +20,9 @@ Please download the datasets from the following links :
   https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
 
 Ensure the following structure before running the notebook:
+├── trader_data.csv
+└── fear_greed_index.csv
+└── analysis.ipynb
 
 ## 🛠 Data Processing
 - Standardized and cleaned column names for consistency.
