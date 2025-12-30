@@ -7,6 +7,20 @@ The goal of this project is to analyze the relationship between Bitcoin market s
 - **Historical Trader Data (Hyperliquid)**: Includes trade-level information such as execution price, position size, trade direction, fees, and closed PnL.
 - **Bitcoin Fear & Greed Index**: Provides daily market sentiment classifications including Fear, Extreme Fear, Greed, and Extreme Greed.
 
+## 📥 Dataset Access
+
+Due to GitHub file size limitations, the raw datasets are not included in this repository.
+
+Please download the datasets from the following links and place them inside a `data/` folder:
+
+- Historical Trader Data (Hyperliquid):  
+  https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+
+- Bitcoin Fear & Greed Index:  
+  https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+
+Ensure the following structure before running the notebook:
+
 ## 🛠 Data Processing
 - Standardized and cleaned column names for consistency.
 - Converted timestamps and aligned both datasets on a daily basis.
